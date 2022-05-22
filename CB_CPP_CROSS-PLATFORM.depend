@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653219638 source:/home/tsn/Projects/CodeBlocksProjects/NB_CPP_CROSS-PLATFORM/main.cpp
+	<stdio.h>
+	<iostream>
+	<clocale>
+
+1653220006 source:/home/tsn/Projects/TSN_CPP_CROSS-PLATFORM_DEMO/CB_CPP_CROSS-PLATFORM/main.cpp
+	<stdio.h>
+	<iostream>
+	<clocale>
+
